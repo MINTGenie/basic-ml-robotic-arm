@@ -14,5 +14,3 @@ Steps:
 2. Create script to read camera, recognize and notify microcontroller over serial port
 
 3. Create servo motor control program for microcrontroller to perform desired action based on serial port message
-
-Check [wiki](https://gitlab.devtools.intel.com/iot-makeathon-ka/various-ideas/basic-ml-robotic-arm/-/wikis/Machine-Learning-based-Robotic-Arm) page for more info 
